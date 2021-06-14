@@ -1,1 +1,1 @@
-Since GitHub sis not renderring the .ipynb file, you could use this link to check my code: https://nbviewer.jupyter.org/. You need to paste this link there:
+Since GitHub is not rendering the .ipynb file, you could use this link to check my code: https://nbviewer.jupyter.org/. There, you need to paste this link: https://github.com/Nit4e/Bank-Marketing-Dataset/blob/main/183060_VNP_Proekt.ipynb
